@@ -44,7 +44,7 @@ BMI=weight/(height)^2
 
 ---
 ## Information
-Find out more about building applications with Shiny here[My github](https://github.com/Yihuiz/BMI-App)
+Find out more about building applications with Shiny here[My github](https://github.com/Yihuiz/BMIpresentation)
 
 
 
